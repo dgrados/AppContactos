@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AppContactos</string>
+    <string name="txtnombre">Nombre completo</string>
+    <string name="txtnombredefault">Ingrese nombre</string>
+    <string name="txttelefono">Teléfono</string>
+    <string name="txtemail">Email</string>
+    <string name="txtdescripcion">Descripción contacto</string>
+    <string name="btnsiguiente">Siguiente</string>
+    <string name="txtfechaNac">Fecha de Nacimiento</string>
+    <string name="pnombre">nombre</string>
+    <string name="pfechaNac">fechaNac</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+    <string name="peditnombre">nombreEdit</string>
+    <string name="peditfechaNac">fechaNacEdit</string>
+    <string name="pedittelefono">telefonoEdit</string>
+    <string name="peditemail">emailEdit</string>
+    <string name="peditdescripcion">descripcionEdit</string>
+    <string name="oncreate">OnCreate</string>
+    <string name="onstart">OnStart</string>
+    <string name="onstop">OnStop</string>
+    <string name="onresume">OnResume</string>
+    <string name="onrestart">OnRestart</string>
+    <string name="onpause">OnPause</string>
+    <string name="ondestroy">OnDestroy</string>
+    <string name="texto_boton_editar">Editar Datos</string>
+</resources>
